@@ -21,7 +21,6 @@
   
   ### 기술스텍
   
-  <img src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=APPLE&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
@@ -30,5 +29,7 @@
   <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=Mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=APPLE&logoColor=white"/>
+
 
   </div>
