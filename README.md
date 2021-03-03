@@ -22,7 +22,7 @@
   ### 기술스텍
   
   <img src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=APPLE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
