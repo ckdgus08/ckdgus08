@@ -31,7 +31,6 @@
   <div align=center>
 
   <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=Mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   
