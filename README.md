@@ -21,16 +21,16 @@
   
   ### 기술스텍
   
-  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
 
   </div>
   <div align=center>
 
   <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=Mathworks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   
   </div>
